@@ -1,26 +1,26 @@
 # d365extensions
-##Digital Innovation One
+**Digital Innovation One
 
 Workshop
 1 - Integrando .NET C# com o Dynamics 365
 
-PrÈ-requisitos 
+Pr√©-requisitos 
 
-- Conhecimentos b·sicos em C#
-- Conhecimentos b·sicos em .Net Framework (4.7.1)
-- Inst‚ncia Dynamics 365
+- Conhecimentos b√°sicos em C#
+- Conhecimentos b√°sicos em .Net Framework (4.7.1)
+- Inst√¢ncia Dynamics 365
 - Visual Studio 2017 ou superior
 
 Roteiro:
 
 - O plug-in no contexto Dynamics
 - Linguagem e arquitetura
-- Ferramentas para criaÁ„o
-- Desenvolvendo o cÛdigo
-- O build e suas dependÍncias
+- Ferramentas para cria√ß√£o
+- Desenvolvendo o c√≥digo
+- O build e suas depend√™ncias
 - Assinando o assembly
 - Registrando assembly e step no ambiente
-- Verificando a execuÁ„o do plugin
+- Verificando a execu√ß√£o do plugin
 
 Ferramentas:
 
