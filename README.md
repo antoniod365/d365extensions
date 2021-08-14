@@ -1,10 +1,10 @@
 # d365extensions
-**Digital Innovation One
 
-Workshop
-1 - Integrando .NET C# com o Dynamics 365
+Digital Innovation One
 
-Pré-requisitos 
+Workshop 1 - Integrando .NET C# com o Dynamics 365
+
+Pré-requisitos:
 
 - Conhecimentos básicos em C#
 - Conhecimentos básicos em .Net Framework (4.7.1)
