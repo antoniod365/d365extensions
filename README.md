@@ -1,4 +1,4 @@
-# d365extensions
+# Dynamics 365 Extensions: Plug-Ins
 
 Digital Innovation One
 
