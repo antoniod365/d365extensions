@@ -30,11 +30,11 @@ Ferramentas:
 
 Seguindo adiante:
 
-- Programming Styles (i.e Early Bound vs. Late Bound [https://docs.microsoft.com/en-us/powerapps/developer/data-platform/org-service/early-bound-programming])
-- Design Patterns (e.g Domain Driven Design)
-- Unit Testing (cf. Microsoft.Xrm.Sdk.Fakes)
-- XRMToolBox (the D365 developer`s swiss army knife)
-- Azure Resources Integration (e.g Function Apps)
-- Versioning Control (Application Life cycle and DevOps)
+- Estilos de Programação (i.e Early Bound vs. Late Bound [https://docs.microsoft.com/en-us/powerapps/developer/data-platform/org-service/early-bound-programming])
+- Melhores Práticas de Design (https://docs.microsoft.com/en-us/powerapps/developer/data-platform/best-practices/business-logic/)
+- Testes de Unidade (cf. Microsoft.Xrm.Sdk.Fakes)
+- XRMToolBox (o canivete suíço do desenvolvedor Dynamics 365)
+- Integrando D365 com Azure (e.g Function Apps)
+- Gerenciomento de versão e ciclo de vida da aplicação (c.f ALM e DevOps)
 
 
